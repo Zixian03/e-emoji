@@ -1,12 +1,5 @@
 # e-emoji 产品文档
 
-## 20*20 PPT文档 文档链接
-
-https://kdocs.cn/l/sYFtmzt53?f=111 [文档] 期末api20.pptx
-
-### 20*20 文件二维码
-
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0109/235308_0ac9db11_1648220.png "屏幕截图.png")
 
 原型详细说明
 |文档名称|e-emoji需求文档|
